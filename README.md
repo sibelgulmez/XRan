@@ -23,7 +23,7 @@ In this repository, you will find csv files for 4 datasets:
     <td class="tg-0pky">Ransomware</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Windows System Files, Download.Com, Software.Informer.Com and PortableFreeware.Com</td>
+    <td class="tg-0pky">Windows System Files,<br> Download.Com, Software.Informer.Com and PortableFreeware.Com</td>
     <td class="tg-0pky">Benign</td>
   </tr>
 </tbody>
