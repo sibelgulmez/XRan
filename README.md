@@ -33,4 +33,4 @@ Each csv file describes the samples within that dataset in a representation desc
 
 Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2024). XRan: Explainable deep learning-based ransomware detection using dynamic analysis. Computers & Security, 139, 103703.
 
-Please don't forget to cite this study if you are to use this dataset.
+Please cite to this study if you are to use the dataset.
