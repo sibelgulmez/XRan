@@ -29,7 +29,7 @@ In this repository, you will find csv files for 4 datasets:
 </tbody>
 </table>
 
-Each csv file describes the samples within that dataset in a representation described in the following paper:
+Each csv file contains the samples within that dataset in a representation described in the following paper:
 
 <b><i>Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2024). XRan: Explainable deep learning-based ransomware detection using dynamic analysis. Computers & Security, 139, 103703.</i></b>
 
